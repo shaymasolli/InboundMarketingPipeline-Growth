@@ -1,53 +1,47 @@
 # 🧬 Biotech Inbound Marketing & Pipeline Growth
+Repositioned a “niche innovation” as a climate-scale solution, unlocking late-stage pipeline and investor traction.
 
-## 1. Overview  
-**Client:** French biotech startup in sustainable insect-based protein  
-**Scope:** Accelerate B2B acquisition, investor interest, and brand authority in a highly technical market.
-
-**Core Challenge:**  
-Low awareness, industry skepticism, and long decision cycles with B2B buyers and investors.
-
+**Client:** Series B French biotech startup (sustainable insect-based protein, 60+ employees)  
+**Objective:** Strengthen investor confidence and accelerate enterprise deal flow in a conservative market.
 
 ---
 
-## 2. The Problem  
-- Misconceptions about insect-based protein in a conservative industry  
-- Difficult-to-reach audience: investors, feed manufacturers, industry influencers  
-- Slow pipeline velocity and fragmented messaging  
+## 1. The Challenge
+Enterprise and investor hesitation wasn’t about demand generation, it was **category risk** and **proof of scalability**. Messaging and motion were fragmented across channels, slowing progression with late-stage partners.
 
 ---
 
-## 3. Solution  
+## 2. Strategy
 **Inbound Marketing + Account-Based Marketing (ABM) Growth Engine**  
 
-Implemented a multi-channel growth strategy built on:  
-
-- **Channels:** LinkedIn, email sequences, webinars, paid LinkedIn Ads, industry forums  
-- **Tools:** HubSpot (CRM + lead scoring), Google Analytics 4 (GA4), ConvertKit, GoToWebinar  
-- **Approach:** Account-Based Marketing (ABM), inbound funnels, A/B testing, analytics-led optimization  
-- **Positioning:** Sustainability, innovation, and impact storytelling  
+- **Positioning Lens:** Climate impact • Scalability • Alternative protein at scale  
+- **Channels:** LinkedIn ABM (targeted ads + credibility campaigns), segmented email, webinars, PR/partner outreach  
+- **Tools:** HubSpot (CRM + lead scoring), Google Analytics 4, ConvertKit, GoToWebinar  
+- **Approach:** ABM, inbound funnels, A/B testing, analytics-led optimization  
 
 ---
 
-## 4. Key Actions  
-- Led content and thought-leadership campaigns: weekly posts, webinars, gated resources  
-- Built segmented ABM workflows targeting investors and B2B partners  
-- Directed paid LinkedIn campaigns and coordinated media outreach  
-- Integrated CRM dashboards for pipeline tracking and lead scoring  
-- Developed partner assets: press kits, pitch decks, funnel reports  
+## 3. Execution
+- Designed ABM workflows for investors, partners, and enterprise targets  
+- Produced thought leadership assets: founder-led webinars, gated reports, case briefs  
+- Launched LinkedIn credibility campaigns with tailored messaging  
+- Led PR + partnerships outreach with sustainability framing  
+- Built CRM dashboards to track pipeline attribution and stage velocity  
 
 ---
 
-## 5. Results (3 Months)  
-- **100+ qualified B2B leads**, with 25% advancing to partner discussions  
-- **$3M+ in qualified partnership opportunities** added to pipeline  
-- **Investor traction:** 10+ angel investor meetings, +40% funding interest  
-- **Brand visibility:** +35% organic reach, +50% engagement, 2K downloads, 1.5K webinar/social interactions   
+## 4. Results
+- $5M+ in late-stage enterprise and investor pipeline  
+- 60+ qualified accounts engaged (investors + enterprise)  
+- 3 strategic partnership deals advanced to proposal stage  
+- Investor momentum: follow-ups from 3 sustainability funds and 2 corporate VCs  
+- +30% organic visibility; +45% engagement across LinkedIn/webinars  
+- 1,800+ gated content downloads and event touchpoints  
+- Full-funnel attribution and stage velocity tracked in HubSpot  
 
 ---
 
-## 6. Key Takeaways  
-- Combining inbound and ABM accelerated traction in a niche, low-trust market  
-- Iterative testing (A/B + CRM insights) improved conversion efficiency  
-- Thought leadership shifted brand perception and built investor confidence  
+## 5. Key Insight 
+Category risk,not reach, was the bottleneck. Reframing the product as a climate-scale input increased deal velocity and investor readiness.
+
 
