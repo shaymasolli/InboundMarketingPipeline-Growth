@@ -36,13 +36,6 @@ Implemented a multi-channel growth strategy built on:
 - Integrated CRM dashboards for pipeline tracking and lead scoring  
 - Developed partner assets: press kits, pitch decks, funnel reports  
 
-📎 **Screenshots & Deliverables:**  
-- CRM dashboard (pipeline view)  
-- LinkedIn ad creative  
-- Funnel performance snapshot  
-- Pitch deck cover or award visual or slide preview
-- Webinar landing page
-
 ---
 
 ## 5. Results (3 Months)  
