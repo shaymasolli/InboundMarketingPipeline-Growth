@@ -43,15 +43,23 @@ To address perceived category risk and demonstrate scalability, I designed a **m
 * Led PR and partner outreach using a climate-scale narrative
 * Built CRM dashboards to track attribution and pipeline velocity  
 
----
+--- 
 
-### 4. Results (Q1–Q2)
-* **$5M+ late-stage enterprise and investor pipeline** generated from ABM-targeted accounts, advancing **3 strategic partnership proposals** and **accelerating deal cycles by ~25%**
-* Engaged **60+ high-value accounts** (enterprise + investors), prioritized by company size, funding stage, and sustainability mandate  
-* **Digital and content contribution:** LinkedIn campaigns, webinars, and gated content accounted for **~30% of pipeline acceleration**, with **CTR ~5%** and **~2,000 content interactions**  
-* **Pipeline monitoring:** Full-funnel attribution and **stage velocity tracked weekly in HubSpot** to ensure transparent progression of leads and investor engagement  
+### 4. Results & Impact
+
+- **$5M+** in enterprise and investor pipeline generated in Q1–Q2
+- **~25%** faster deal cycles driven by ABM workflows and climate-scale repositioning
+- **60+ high-value accounts** engaged, segmented by sustainability mandate, funding readiness, and company size
+- **3 strategic partnerships** advanced to proposal stage
+- **Investor confidence increased**, securing meetings with 3 sustainability funds + 2 corporate VCs
+- **Digital and content channels directly influenced late-stage pipeline movement,** with:
+  - **~5% CTR** across ABM campaign touchpoints
+  - **2,000+ content interactions** from reports, webinars and briefs
+- **Full-funnel visibility maintained through HubSpot dashboards**, tracking attribution, velocity and stage conversion
+
+
 
 ---
 
 ### 5. Key Insight
-The primary barrier was **market validation and positioning, not demand**. Reframing the solution as climate-scale infrastructure reduced perceived risk, accelerated enterprise deals, and increased investor readiness.
+The primary barrier was **market validation and positioning, not demand**. Reframing the solution as climate-scale infrastructure reduced perceived risk, accelerated enterprise deal flow and increased investor conviction.
