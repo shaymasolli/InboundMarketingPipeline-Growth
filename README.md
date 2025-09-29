@@ -1,47 +1,52 @@
-# 🧬 Biotech Inbound Marketing & Pipeline Growth
-Repositioned a “niche innovation” as a climate-scale solution, unlocking late-stage pipeline and investor traction.
+# 🧬 Biotech Go-to-market and Pipeline Growth
 
-**Client:** Series B French biotech startup (sustainable insect-based protein, 60+ employees)  
-**Objective:** Strengthen investor confidence and accelerate enterprise deal flow in a conservative market.
+Repositioned a niche biotech solution as an enterprise-scale climate asset, accelerating enterprise deals and investor traction.
+
+**Client:** Series B French biotech startup (insect-based protein, 60+ employees)  
+**Objective:** Increase investor confidence and accelerate enterprise deal flow in a conservative, risk-sensitive market.
 
 ---
 
 ## 1. The Challenge
-Enterprise and investor hesitation wasn’t about demand generation, it was **category risk** and **proof of scalability**. Messaging and motion were fragmented across channels, slowing progression with late-stage partners.
+
+Enterprise buyers and late-stage investors hesitated due to perceived category risk and scalability uncertainty. The solution was seen as experimental rather than deployable at scale, and messaging across channels was inconsistent, slowing pipeline progression and investor engagement.
 
 ---
 
 ## 2. Strategy
-**Inbound Marketing + Account-Based Marketing (ABM) Growth Engine**  
 
-- **Positioning Lens:** Climate impact • Scalability • Alternative protein at scale  
-- **Channels:** LinkedIn ABM (targeted ads + credibility campaigns), segmented email, webinars, PR/partner outreach  
-- **Tools:** HubSpot (CRM + lead scoring), Google Analytics 4, ConvertKit, GoToWebinar  
-- **Approach:** ABM, inbound funnels, A/B testing, analytics-led optimization  
+**Enterprise Lead Acquisition & Account-Based Marketing (ABM)**  
+
+To address perceived category risk and demonstrate scalability, I designed a multi-channel ABM strategy targeting enterprise accounts and late-stage investors. Each touchpoint reinforced climate impact, scalability, and alternative protein positioning while keeping messaging consistent with audience expectations.
+
+* **Channels:** LinkedIn account targeting and credibility campaigns, segmented email, webinars, PR/partner outreach  
+* **Tools:** HubSpot (CRM and lead qualification), Google Analytics 4, ConvertKit, GoToWebinar  
+* **Methods:** ABM workflows, lead acquisition funnels, A/B testing, performance optimization  
+
+I executed integrated campaigns combining ABM workflows, PR outreach, webinars, and targeted content to engage accounts, capture qualified leads, and accelerate late-stage pipeline movement.
 
 ---
 
 ## 3. Execution
-- Designed ABM workflows for investors, partners, and enterprise targets  
-- Produced thought leadership assets: founder-led webinars, gated reports, case briefs  
-- Launched LinkedIn credibility campaigns with tailored messaging  
-- Led PR + partnerships outreach with sustainability framing  
-- Built CRM dashboards to track pipeline attribution and stage velocity  
+
+* Built ABM workflows for investors, partners, and enterprise accounts  
+* Created thought leadership assets: founder webinars, gated reports, case briefs  
+* Launched LinkedIn credibility campaigns with tailored messaging  
+* Led PR and partner outreach using a climate-scale narrative  
+* Built CRM dashboards to track attribution and pipeline velocity  
 
 ---
 
 ## 4. Results
-- $5M+ in late-stage enterprise and investor pipeline  
-- 60+ qualified accounts engaged (investors + enterprise)  
-- 3 strategic partnership deals advanced to proposal stage  
-- Investor momentum: follow-ups from 3 sustainability funds and 2 corporate VCs  
-- +30% organic visibility; +45% engagement across LinkedIn/webinars  
-- 1,800+ gated content downloads and event touchpoints  
-- Full-funnel attribution and stage velocity tracked in HubSpot  
+
+* $5M+ late-stage enterprise and investor pipeline generated over Q1–Q2 from ABM-targeted accounts, advancing 3 strategic partnership proposals and accelerating deal cycles by ~25%  
+* Engaged 60+ high-value accounts (enterprise + investors), prioritized by company size, funding stage, and sustainability mandate  
+* Investor traction: Follow-ups and scheduled meetings with 3 sustainability-focused funds and 2 corporate VCs, demonstrating increased investor confidence  
+* Digital and content contribution: LinkedIn campaigns, webinars, and gated content accounted for ~30% of pipeline acceleration, with CTR ~5% and ~2,000+ content interactions  
+* Full-funnel attribution and pipeline stage velocity tracked in HubSpot for transparent monitoring of lead and investor progression  
 
 ---
 
-## 5. Key Insight 
-Category risk,not reach, was the bottleneck. Reframing the product as a climate-scale input increased deal velocity and investor readiness.
+## 5. Key Insight
 
-
+The primary barrier was market validation and positioning, not demand. Reframing the solution as climate-scale infrastructure reduced perceived risk, accelerated enterprise deals, and increased investor readiness.
