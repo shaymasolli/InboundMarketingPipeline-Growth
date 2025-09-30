@@ -43,6 +43,22 @@ To address perceived category risk and demonstrate scalability, I designed a **m
 * Led PR and partner outreach using a climate-scale narrative
 * Built CRM dashboards to track attribution and pipeline velocity  
 
+
+<br />
+
+<div align="center">
+
+**ABM Pipeline Workflow (HubSpot)**  
+*Stages used for enterprise + investor ABM qualification and deal progression. Probabilities reflect conversion likelihood across the funnel.*
+
+
+![HubSpot Pipeline Screenshot](abm_pipeline_screenshot.png)
+
+
+</div>
+
+
+
 --- 
 
 ### 4. Results & Impact
