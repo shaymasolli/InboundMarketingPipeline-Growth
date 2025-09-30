@@ -49,7 +49,7 @@ To counteract perceived risk and build confidence in scalability, I designed a *
 
 <p align="center">
 <em>Stages used for enterprise + investor ABM qualification and deal progression. Probabilities reflect conversion likelihood across the funnel.</em> 
-<img src="abm_pipeline_screenshot.png" alt="HubSpot Pipeline Screenshot" />
+<img src="abm_pipeline_screenshot.png" alt="HubSpot Pipeline Screenshot" style="width:80%; height:80%;" />
 </p>
 
 ---
@@ -58,14 +58,8 @@ To counteract perceived risk and build confidence in scalability, I designed a *
 <div align="center">
 <em>Example of LinkedIn sponsored content used in ABM campaigns targeting enterprise and investor accounts.</em><br>
 <em>Logo and company name blurred for confidentiality.</em><br><br>
-<img src="Biotech LinkedIn Sponsored Post Screenshot.png" alt="LinkedIn Sponsored Post Screenshot" />
+<img src="Biotech LinkedIn Sponsored Post Screenshot.png" alt="LinkedIn Sponsored Post Screenshot" style="width:; height:;" />
 </div>
-
-**Purpose:** Build credibility and engagement with high-value accounts, highlighting climate-scale protein solution.
-
-**Key Metrics:**
-* **139 likes, 16 comments, 2 shares** on this post  
-* **CTR:** ~5% across ABM campaign touchpoints  
 
 > Note: Part of multi-channel ABM strategy integrating LinkedIn, email sequences, webinars, and PR/partner outreach to drive pipeline and qualified engagement.
 
@@ -90,7 +84,7 @@ To counteract perceived risk and build confidence in scalability, I designed a *
 
 <div align="center">
 <em>Visual summary of pipeline velocity, attribution and stage progression from ABM execution.</em><br>
-<img src="Pipeline Performance & Engagement Metrics.png" alt="Pipeline Performance Dashboard" />
+<img src="Pipeline Performance & Engagement Metrics.png" alt="Pipeline Performance Dashboard" style="width:80%; height:80%;" />
 </div>
 
 ---
