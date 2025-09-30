@@ -48,9 +48,26 @@ To address perceived category risk and demonstrate scalability, I designed a **m
 ### ABM Pipeline Workflow (HubSpot)
 
 <p align="center">
-<em>Stages used for enterprise + investor ABM qualification and deal progression. Probabilities reflect conversion likelihood across the funnel.</em>
+<em>Stages used for enterprise + investor ABM qualification and deal progression. Probabilities reflect conversion likelihood across the funnel.</em> 
 <img src="abm_pipeline_screenshot.png" alt="HubSpot Pipeline Screenshot" />
 </p>
+
+---
+### LinkedIn Sponsored Campaign
+
+<div align="center">
+<em>Example of LinkedIn sponsored content used in ABM campaigns targeting enterprise and investor accounts.</em><br>
+<em>Logo and company name blurred for confidentiality.</em><br><br>
+<img src="Biotech LinkedIn Sponsored Post Screenshot.png" alt="LinkedIn Sponsored Post Screenshot" />
+</div>
+
+**Purpose:** Build credibility and engagement with high-value accounts, highlighting climate-scale protein solution.
+
+**Key Metrics:**
+* **139 likes, 16 comments, 2 shares** on this post  
+* **CTR:** ~5% across ABM campaign touchpoints  
+
+> Note: Part of multi-channel ABM strategy integrating LinkedIn, email sequences, webinars, and PR/partner outreach to drive pipeline and qualified engagement.
 
 --- 
 
