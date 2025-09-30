@@ -73,7 +73,7 @@ To address perceived category risk and demonstrate scalability, I designed a **m
 
 ### 4. Results & Impact
 
-- **$5M+** in enterprise and investor pipeline generated in Q1–Q2
+- **€5M+** in enterprise and investor pipeline generated in Q1–Q2
 - **~25%** faster deal cycles driven by ABM workflows and climate-scale repositioning
 - **60+ high-value accounts** engaged, segmented by sustainability mandate, funding readiness, and company size
 - **3 strategic partnerships** advanced to proposal stage
