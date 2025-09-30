@@ -7,14 +7,14 @@ Repositioned a niche biotech solution as an enterprise-scale climate asset, acce
 ---
 
 ### 1. The Challenge
-Enterprise buyers and late-stage investors hesitated due to **perceived category risk and scalability uncertainty**. The solution was seen as experimental rather than deployable at scale, and messaging across channels was inconsistent, slowing pipeline progression and investor engagement.
+Enterprise buyers and late-stage investors hesitated due to **perceived category risk and scalability uncertainty**. The solution was perceived as experimental rather than deployable at scale. Inconsistent messaging across channels further slowed investor engagement and deal progression.
 
 ---
 
 ### 2. Strategy
 **Enterprise Lead Acquisition & Account-Based Marketing (ABM)**
 
-To address perceived category risk and demonstrate scalability, I designed a **multi-channel ABM strategy** targeting enterprise accounts and late-stage investors. Each touchpoint reinforced **climate impact, scalability, and alternative protein positioning** while keeping messaging consistent with audience expectations.
+To counteract perceived risk and build confidence in scalability, I designed a **multi-channel ABM strategy** targeting enterprise buyers and late-stage investors. Each touchpoint reinforced **climate impact, industrial readiness and alternative protein positioning**, using consistent narratives across channels.
 
 **Channels:**
 * LinkedIn account targeting and credibility campaigns
@@ -37,9 +37,9 @@ To address perceived category risk and demonstrate scalability, I designed a **m
 ---
 
 ### 3. Execution
-* Built ABM workflows for investors, partners, and enterprise accounts  
-* Created thought leadership assets: founder webinars, gated reports, case briefs  
-* Launched LinkedIn credibility campaigns with tailored messaging  
+* Built ABM workflows for investors, partners and enterprise accounts  
+* Produced thought leadership content: founder webinars, gated reports, case briefs  
+* Launched LinkedIn credibility campaigns with tailored positioning  
 * Led PR and partner outreach using a climate-scale narrative
 * Built CRM dashboards to track attribution and pipeline velocity  
 
@@ -74,16 +74,24 @@ To address perceived category risk and demonstrate scalability, I designed a **m
 ### 4. Results & Impact
 
 - **€5M+** in enterprise and investor pipeline generated in Q1–Q2
-- **~25%** faster deal cycles driven by ABM workflows and climate-scale repositioning
-- **60+ high-value accounts** engaged, segmented by sustainability mandate, funding readiness, and company size
+- **~25%** faster deal cycles through ABM workflows and positioning
+- **60+ high-value accounts** engaged, segmented by mandate, readiness and size
 - **3 strategic partnerships** advanced to proposal stage
 - **Investor confidence increased**, securing meetings with 3 sustainability funds + 2 corporate VCs
-- **Digital and content channels directly influenced late-stage pipeline movement,** with:
-  - **~5% CTR** across ABM campaign touchpoints
-  - **2,000+ content interactions** from reports, webinars and briefs
-- **Full-funnel visibility maintained through HubSpot dashboards**, tracking attribution, velocity and stage conversion
+- **Digital channels influenced late-stage pipeline,** including:
+  - **~5% CTR** on ABM campaign touchpoints
+  - **2,000+ content interactions** accross webinars, briefs and reports
+- HubSpot dashboards enabled **full-funnel visibility (attribution, velocity, conversion)**
 
 
+--- 
+
+### Pipeline Performance and Engagement Metrics
+
+<div align="center">
+<em>Visual summary of pipeline velocity, attribution and stage progression from ABM execution.</em><br>
+<img src="Pipeline Performance & Engagement Metrics.png" alt="Pipeline Performance Dashboard" />
+</div>
 
 ---
 
