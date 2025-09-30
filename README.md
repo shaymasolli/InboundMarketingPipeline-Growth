@@ -44,6 +44,18 @@ To address perceived category risk and demonstrate scalability, I designed a **m
 * Built CRM dashboards to track attribution and pipeline velocity  
 
 
+---
+
+### ABM Pipeline Workflow (HubSpot)
+
+<p align="center">
+<em>Stages used for enterprise + investor ABM qualification and deal progression. Probabilities reflect conversion likelihood across the funnel.</em>
+<img src="abm_pipeline_screenshot.png" alt="HubSpot Pipeline Screenshot" />
+</p>
+
+---
+
+
 <br />
 
 <div align="center">
