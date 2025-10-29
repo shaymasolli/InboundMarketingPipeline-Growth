@@ -1,7 +1,7 @@
 # 🧬 Biotech Go-to-market and Pipeline Growth
 Repositioned a niche biotech solution as an enterprise-scale climate asset, accelerating enterprise deals and investor traction.
 
-**Client:** Series B French biotech startup (insect-based protein, 60+ employees)  
+**Client:** Series B multinational biotech startup (insect-based protein)  
 **Objective:** Increase investor confidence and accelerate enterprise deal flow in a conservative, risk-sensitive market.
 
 ---
