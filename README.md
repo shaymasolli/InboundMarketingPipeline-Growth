@@ -81,7 +81,7 @@ To counteract perceived risk and build confidence in scalability, I designed a *
 
 <div align="center">
 <em>Visual summary of pipeline velocity, attribution and stage progression from ABM execution.</em><br>
-<img src="Pipeline Performance & Engagement Metrics.png" alt="Pipeline Performance Dashboard" style="width:80%; height:80%;" />
+<img src="Pipeline Performance & Engagement Metrics.png" alt="Pipeline Performance Dashboard" />
 </div>
 
 ---
