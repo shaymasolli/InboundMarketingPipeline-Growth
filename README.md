@@ -67,7 +67,7 @@ To counteract perceived risk and build confidence in scalability, I designed a *
 
 ### 4. Results & Impact
 
-- **€5M+** in enterprise and investor pipeline generated in Q3–Q4
+- **€5M+** in enterprise and investor pipeline generated in Q3–Q4, following ABM rollout and market repositioning
 - **~25%** faster deal cycles through ABM workflows and positioning
 - **60+ high-value accounts** engaged, segmented by mandate, readiness and size
 - **3 strategic partnerships** advanced to proposal stage
