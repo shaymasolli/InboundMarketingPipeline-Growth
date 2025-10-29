@@ -67,15 +67,13 @@ To counteract perceived risk and build confidence in scalability, I designed a *
 
 ### 4. Results & Impact
 
-- **€5M+** in enterprise and investor pipeline generated in Q3–Q4, following ABM rollout and market repositioning
-- **~25%** faster deal cycles through ABM workflows and positioning
-- **60+ high-value accounts** engaged, segmented by mandate, readiness and size
-- **3 strategic partnerships** advanced to proposal stage
-- **Investor confidence increased**, securing meetings with 3 sustainability funds + 2 corporate VCs
-- **Digital channels influenced late-stage pipeline,** including:
-  - **~5% CTR** on ABM campaign touchpoints
-  - **2,000+ content interactions** accross webinars, briefs and reports
-- HubSpot dashboards enabled **full-funnel visibility (attribution, velocity, conversion)**
+- **€5M+** in enterprise and investor pipeline generated in Q3–Q4 following ABM rollout and market repositioning
+- Faster deal cycles **(~25%)** as targeted workflows reduced friction and improved qualification
+- **60+ priority accounts** engaged, segmented by readiness, mandate, and strategic fit
+- **Three strategic partnerships** advanced to proposal stage through coordinated ABM and PR outreach
+- **Investor confidence strengthened**, leading to meetings with leading sustainability funds and corporate VCs
+- Improved perception of scalability and category maturity, shifting the narrative from “experimental” to “industrial-ready”
+- Established **full-funnel visibility** via HubSpot dashboards for attribution, velocity, and conversion tracking
 
 
 --- 
